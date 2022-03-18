@@ -27,7 +27,6 @@ t(0.3)
 t(2)
 
 process = subprocess.Popen(["input.bat"], stderr=subprocess.PIPE, text=True)
-number = input("Input number\n")
 t(1)
 
 #See if the numbers valid 
