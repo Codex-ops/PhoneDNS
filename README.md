@@ -1,8 +1,7 @@
 # PhoneDNS
 
 
-HOW TO RUN 
-------------
+**HOW TO RUN**
 Windows cmd
 -----------
 pip install requirements.txt
